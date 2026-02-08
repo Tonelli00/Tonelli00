@@ -6,3 +6,5 @@ Me encuentro en constante búsqueda de aprender nuevas tecnologías, profundizar
 Tecnologías: Java,Springboot,C#,ASP.Net,.NET,SQLServer,HTML,CSS y JS.
 
 Contactame en tonelliramiro748@gmail.com
+
+![Mi foto](https://raw.githubusercontent.com/Tonelli00/readmeFoto/refs/heads/main/Carlitos-argento%201.png?token=GHSAT0AAAAAADRPZJJI5UIPMG7WNPUOPVUY2MI5MKQ)
