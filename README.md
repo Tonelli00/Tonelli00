@@ -1,5 +1,5 @@
 ## Hola!👋
-<img src="https://raw.githubusercontent.com/Tonelli00/readmeFoto/refs/heads/main/Carlitos-argento%201.png?token=GHSAT0AAAAAADRPZJJJTGFXHDGUKIWPTP522MI5V3A" 
+<img src="https://raw.githubusercontent.com/Tonelli00/Tonelli00/refs/heads/main/Carlitos-argento%201.png" 
      width="180" 
      align="right" 
      margin-top="20"
