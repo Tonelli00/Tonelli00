@@ -14,4 +14,6 @@ Tecnologías: Java,Springboot,C#,ASP.Net,.NET,SQLServer,HTML,CSS y JS.
 
 Contactame en tonelliramiro748@gmail.com
 
+[![Wakatime Badge](https://wakatime.com/badge/user/2c637c62-33b6-466c-8ef4-ec0e42de03a2.svg)](https://wakatime.com/@2c637c62-33b6-466c-8ef4-ec0e42de03a2)
+
 
